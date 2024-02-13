@@ -1,6 +1,6 @@
 # App-Dev-2024
 
-Requirements:
+Course Requirements:
 1. Laptop or Personal Computer
 2. Discord Account
 3. Legitimate Email Account
