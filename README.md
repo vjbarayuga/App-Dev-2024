@@ -1,7 +1,7 @@
 # App-Dev-2024
 
 # Course Description: 
-This course focuses on developing software applications using the web and emerging technologies. Emphasis is on requirements management, interface design, usability, and deployment including ethical and legal considerations.
+This comprehensive course is designed to equip students enrolled in Applications Development with the essential skills for crafting software and web applications utilizing the cutting-edge of web development and emerging technologies. The curriculum places a strong emphasis on key aspects such as web design and programming, requirements management, interface design, usability optimization, and deployment strategies. Additionally, ethical and legal considerations are thoroughly explored to ensure that participants develop a well-rounded understanding of responsible software development practices.
 
 # Course Requirements:
 1. Laptop or Personal Computer
