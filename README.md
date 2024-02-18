@@ -20,14 +20,18 @@ If you’ve never used git and github before, there are a bunch of things that y
 4. For the first time you setup and use git and github, create first a sample repository in github and name it Practice-Git-GitHub.
 5. After creating your Practice-Git-GitHub repository, clone the repository into your Desktop. Simply copy the link from github and clone it on your desktop.
 6. Then open the cloned repository with Visual Studio Code.
-7. Then simple open the terminal in your Visual Studio Code, if it is your first time follow the configuration steps below:
+7. Then simply open the terminal in your Visual Studio Code through this shortcut, ctrl + back ticks, the symbol of the backticks (~) is beside the number 1 key in your keyboard.
+8. If it is your first time follow the configuration steps below:
 
 Open a terminal/shell and type:
 
 git config --global user.name "Your name here"
 git config --global user.email "your_email@example.com"
 
-8. After doing the configuration, you can now practice, create a new file and name it index.html.
-9. 
-
+8. After doing the configuration, you can now practice, create a new file and name it index.html, create an html boilerplate, create an <h1>my first git practice</h1>. Then save it.
+9. After saving your work, execute the commands:
+git add .
+git commit -m "initial commit"
+git push origin main
+10. If you have followed properly the steps, you are in good shape.
 
