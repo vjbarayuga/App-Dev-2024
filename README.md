@@ -11,7 +11,7 @@ This course focuses on developing software applications using the web and emergi
 5. Github Account
 6. Learning by Doing...
 
-#GIT AND GITHUB
+# Git and Github: 
 If you’ve never used git and github before, there are a bunch of things that you need to do. It’s very well explained on github, but repeated here for completeness.
 
 1. Get a github account.
@@ -24,7 +24,6 @@ If you’ve never used git and github before, there are a bunch of things that y
 8. If it is your first time follow the configuration steps below:
 
 Open a terminal/shell and type:
-
 git config --global user.name "Your name here"
 git config --global user.email "your_email@example.com"
 
