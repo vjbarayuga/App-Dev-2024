@@ -27,7 +27,7 @@ Open a terminal/shell and type:
 git config --global user.name "Your name here"
 git config --global user.email "your_email@example.com"
 
-8. After doing the configuration, you can now practice, create a new file and name it index.html, create an html boilerplate, create an <h1>my first git practice</h1>. Then save it.
+8. After doing the configuration, you can now practice, create a new file and name it index.html, create an html boilerplate, create an open h1 tag  my first git practice  close h1 tag. Then save it.
 9. After saving your work, execute the commands:
 git add .
 git commit -m "initial commit"
