@@ -27,10 +27,10 @@ Open a terminal/shell and type:
 git config --global user.name "Your name here"
 git config --global user.email "your_email@example.com"
 
-8. After doing the configuration, you can now practice, create a new file and name it index.html, create an html boilerplate, create an open h1 tag  my first git practice  close h1 tag. Then save it.
-9. After saving your work, execute the commands:
+8. After doing the configuration, you can now practice, create a new file and name it index.html, create an html boilerplate, create an open h1 tag  and put this inside the h1 tag, my first git practice, then close h1 tag.
+9. Then save your work. After saving your work, execute the commands:
 git add .
 git commit -m "initial commit"
 git push origin main
-10. If you have followed properly the steps, you are in good shape.
+11. If you have followed properly the steps, you are in good shape.
 
