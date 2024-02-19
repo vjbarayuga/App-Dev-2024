@@ -13,9 +13,9 @@ This comprehensive course is designed to equip students enrolled in Applications
 
 # Git and Github: 
 If you’ve never used git and github before, there are a bunch of things that you need to do. It’s very well explained on github, but repeated here for completeness.
-1. Get a github account.
+1. Register for a github account.
 2. Download and install git.
-3. Set up git with your user name and email.
+3. Set up git to github with your user name and email.
 4. For the first time you setup and use git and github, create first a sample repository in github and name it Practice-Git-GitHub.
 5. After creating your Practice-Git-GitHub repository, clone the repository into your Desktop. Simply copy the link from github and clone it on your desktop.
 6. Then open the cloned repository with Visual Studio Code.
